@@ -1,0 +1,3 @@
+- Wrote RESTful API for topics
+- Researched error reporting for app platform and server side, we'll be using sentry.io
+- Learned about scaling and WebSockets, AWS Elasticache Redis will solve this
