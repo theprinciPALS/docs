@@ -1,0 +1,2 @@
+- Finished mobile app
+- Started presentation, and asked questions on piazza
