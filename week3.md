@@ -1,0 +1,2 @@
+- Finished writing backend w/ auth0 and sentry
+- Began researching for mobile app
